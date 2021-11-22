@@ -11,7 +11,7 @@ public class Display extends Canvas implements Runnable {
   public static final String title = "3D renderer";
 
   public static final int Width = 800;
-  public static final int Height = 400;
+  public static final int Height = 600;
 
   public static Boolean isRunning = false;
 

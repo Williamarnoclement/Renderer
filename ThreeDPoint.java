@@ -7,4 +7,10 @@ public class ThreeDPoint{
     this.y = _y;
     this.z = _z;
   }
+
+  public void update(double _x, double _y, double _z){
+    this.x = _x;
+    this.y = _y;
+    this.z = _z;
+  }
 }
